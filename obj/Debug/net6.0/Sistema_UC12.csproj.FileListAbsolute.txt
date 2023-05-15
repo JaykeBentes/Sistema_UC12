@@ -1,0 +1,15 @@
+D:\FS18_UC12\Sistema_UC12\bin\Debug\net6.0\Sistema_UC12.exe
+D:\FS18_UC12\Sistema_UC12\bin\Debug\net6.0\Sistema_UC12.deps.json
+D:\FS18_UC12\Sistema_UC12\bin\Debug\net6.0\Sistema_UC12.runtimeconfig.json
+D:\FS18_UC12\Sistema_UC12\bin\Debug\net6.0\Sistema_UC12.dll
+D:\FS18_UC12\Sistema_UC12\bin\Debug\net6.0\Sistema_UC12.pdb
+D:\FS18_UC12\Sistema_UC12\obj\Debug\net6.0\Sistema_UC12.csproj.AssemblyReference.cache
+D:\FS18_UC12\Sistema_UC12\obj\Debug\net6.0\Sistema_UC12.GeneratedMSBuildEditorConfig.editorconfig
+D:\FS18_UC12\Sistema_UC12\obj\Debug\net6.0\Sistema_UC12.AssemblyInfoInputs.cache
+D:\FS18_UC12\Sistema_UC12\obj\Debug\net6.0\Sistema_UC12.AssemblyInfo.cs
+D:\FS18_UC12\Sistema_UC12\obj\Debug\net6.0\Sistema_UC12.csproj.CoreCompileInputs.cache
+D:\FS18_UC12\Sistema_UC12\obj\Debug\net6.0\Sistema_UC12.dll
+D:\FS18_UC12\Sistema_UC12\obj\Debug\net6.0\refint\Sistema_UC12.dll
+D:\FS18_UC12\Sistema_UC12\obj\Debug\net6.0\Sistema_UC12.pdb
+D:\FS18_UC12\Sistema_UC12\obj\Debug\net6.0\Sistema_UC12.genruntimeconfig.cache
+D:\FS18_UC12\Sistema_UC12\obj\Debug\net6.0\ref\Sistema_UC12.dll
